@@ -9,6 +9,6 @@ service:
 
 ingress:
   className: nginx
-  host: o4em.ru
+  host: example.com
   path: /
   annotations: {}
