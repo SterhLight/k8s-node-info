@@ -1,0 +1,7 @@
+apiVersion: v2
+name: k8s-node-info
+description: A Helm chart for Kubernetes
+license: GPL-3.0-or-later
+type: application
+version: 0.1.0
+appVersion: "0.1.0"

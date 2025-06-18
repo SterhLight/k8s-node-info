@@ -1,0 +1,14 @@
+image:
+  repository: lsterh/k8s-node-info
+  tag: latest
+
+containerPort: 80
+
+service:
+  port: 80
+
+ingress:
+  className: nginx
+  host: o4em.ru
+  path: /
+  annotations: {}
